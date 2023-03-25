@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
 /*              Sass Template           */
 /*  global classes  */
-button,
-button:focus {
+button, button:focus {
   outline: none !important;
   box-shadow: none !important;
 }
@@ -46,19 +45,19 @@ button:focus {
 }
 
 .color-second {
-  color: #00a5c4;
+  color: #00A5C4;
 }
 
 .color-second-bg {
-  background: #00a5c4;
+  background: #00A5C4;
 }
 
 .color-yellow {
-  color: #ffd289;
+  color: #FFD289;
 }
 
 .color-yellow-bg {
-  background: #ffd289;
+  background: #FFD289;
 }
 
 /*  top sale template   */
